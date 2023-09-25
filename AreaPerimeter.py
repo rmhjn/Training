@@ -8,6 +8,6 @@ class Circle():
     def perimeter(self):
         return 2*self.radius*3.14
 
-Circle1 = Circle(15)
-print(Circle1.area())
-print(Circle1.perimeter())
+Circlee = Circle(15)
+print(Circlee.area())
+print(Circlee.perimeter())
